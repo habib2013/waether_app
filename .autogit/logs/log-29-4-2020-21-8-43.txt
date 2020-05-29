@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 29 2020 21:08:43 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/index.html
+* src/App.js
+* src/index.js
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+* src/App.css
+* src/App.test.js
+* src/index.css
+* src/logo.svg
+* src/serviceWorker.js
+* src/setupTests.js
+
+
+Renamed files:
