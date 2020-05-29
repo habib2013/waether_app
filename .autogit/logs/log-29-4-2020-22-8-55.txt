@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 29 2020 22:08:55 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/App.css
+* src/App.js
+* src/api/fetchWeather.js
+
+
+Created files:
+* .autogit/logs/log-29-4-2020-21-38-50.txt
+
+
+Deleted files:
+
+
+Renamed files:
