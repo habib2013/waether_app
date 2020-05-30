@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Sat May 30 2020 00:56:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/index.html
+
+
+Created files:
+* .autogit/logs/log-29-4-2020-22-39-2.txt
+* public/images/bg.jpg
+* public/images/logo.png
+* public/manifest.json
+* public/offline.html
+
+
+Deleted files:
+
+
+Renamed files:
